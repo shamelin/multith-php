@@ -26,7 +26,7 @@ this repository;<br>
 
 ```php
 require_once('multith-php-master/autoload.php'); # The path to the autoloader of the plugin
-$multith->Initiate('{PROJECT NAME}' '{THEME YOU WANT} (OPTIONAL)');
+$multith->Initiate('{PROJECT NAME}', '{THEME YOU WANT} (OPTIONAL)');
 ```
 
 You are good to go!
