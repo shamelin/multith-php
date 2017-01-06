@@ -1,6 +1,8 @@
 # multith-php
 ## Multi-theme support on your websites
 
+(This script has been written in ~1 hour, as a challenge.)
+
 Do you want to test new themes on some users? Do you want to create new themes in 2 seconds? This PHP script is perfect for you!
 Multith is able to load theme from a database and apply it to the page.
 
